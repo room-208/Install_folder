@@ -1,0 +1,11 @@
+mozc
+<https://qiita.com/ramen/items/c34b27b9e3f5e15692b8>
+<https://qiita.com/arai-wa/items/3123ecb350097f79c6ef>
+
+pyhton
+<https://www.python.jp/install/ubuntu/index.html>
+
+pipenv
+<http://serverarekore.blogspot.com/2020/08/ubuntu-2004pipenvmoviepy.html>
+
+pipenv lock --pre --clear
